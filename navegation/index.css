@@ -1,0 +1,19 @@
+.item{
+    display:inline-block;
+    vertical-align:middle;
+}
+#nav{
+    background-color: gray;
+    border-radius: 20px;
+}
+#logo{
+    width: 100px;
+    border-radius: 50px;
+    margin-bottom: -3px;
+    margin-left: 5px;
+}
+.item ul li{
+display: inline;
+margin-left: 10px;
+padding-left: 50px;
+}
